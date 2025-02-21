@@ -24,6 +24,9 @@ Depending on the user's choice, it calls the appropriate function.
 
 # Features of the Program:
 Add Student: Users can add up to 10 student records (the array size is fixed to MAX_STUDENTS = 10).
+
 View Students: Displays all student details (roll number, name, age).
+
 Delete Student: Deletes a student based on the roll number and shifts the remaining students to fill the gap.
+
 Exit: Exits the program.
