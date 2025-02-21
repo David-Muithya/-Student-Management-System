@@ -30,3 +30,14 @@ View Students: Displays all student details (roll number, name, age).
 Delete Student: Deletes a student based on the roll number and shifts the remaining students to fill the gap.
 
 Exit: Exits the program.
+
+# Future Improvements:
+Dynamic Memory Allocation: Instead of using a fixed array, you could use a dynamically allocated array or a vector to store students, which would allow for a flexible number of student records.
+
+Search Functionality: Add a function to search for a student by roll number or name.
+
+File Handling: Implement file handling to save and load student records to/from a file.
+
+Input Validation: Improve input validation to handle edge cases (e.g., entering non-numeric values for age or roll number).
+
+This simple project demonstrates basic C++ concepts like structures, arrays, functions, and user interaction. It can be a great starting point for building more complex projects as you learn more advanced C++ features!
